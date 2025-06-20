@@ -1,0 +1,28 @@
+# Java / Maven
+target/
+*.log
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# VSCode
+.vscode/
+
+# Docker
+docker_pgdata/
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
